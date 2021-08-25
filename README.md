@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Luke Greaves</h1>
-<h3 align="center">A passionate frontend developer from</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukegreaves5&label=Profile%20views&color=0e75b6&style=flat" alt="lukegreaves5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukegreaves5" alt="lukegreaves5" /></a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukegreaves5&show_icons=true&locale=en&layout=compact" alt="lukegreaves5" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukegreaves5&show_icons=true&locale=en" alt="lukegreaves5" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukegreaves5&" alt="lukegreaves5" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
