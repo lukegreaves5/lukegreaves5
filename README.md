@@ -1,4 +1,4 @@
-<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lukegreaves5&" alt="lukegreaves5" /></p>
+<a href="https://app.daily.dev/lukeGreaves"><img src="https://api.daily.dev/devcards/0006196241324322b15dc3430ae07db2.png?r=7ts" width="400" alt="Luke Greaves's Dev Card"/></a>
 
 
 
