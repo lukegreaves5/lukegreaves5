@@ -7,7 +7,7 @@
 
  </br>
  <div style="width:50%;">
-  <h3 align="left">Daily.Dev Card</h3>
+  <h3 align="left">Daily.Dev Card:</h3>
  <a href="https://app.daily.dev/lukeGreaves">
   <img style="width:50%;" src="https://api.daily.dev/devcards/0006196241324322b15dc3430ae07db2.png?r=7ts" alt="Luke Greaves's Dev Card"/>
  </a>
