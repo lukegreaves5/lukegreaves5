@@ -1,5 +1,8 @@
 <div style="flex;flex-direction:row;">
+
+<div style="width:50%;">
 <a href="https://app.daily.dev/lukeGreaves"><img style="width:50%;" src="https://api.daily.dev/devcards/0006196241324322b15dc3430ae07db2.png?r=7ts" width="400" alt="Luke Greaves's Dev Card"/></a>
+ </div>
 
 <div style="width:50%;">
 <h3 align="left">Languages and Tools:</h3>
